@@ -17,9 +17,15 @@ The files contained in this folder are :
 * `Nuevos_final.ped` .- This is the ped file obtained from dryad.
 * `Nuevos_final26mar.vcf` .- This is the file resulting from the combination of the previous files using plink v1.90b6.9
 
+##### Note for plink
+
+It is important to mention that the command used in plink "does not run in the versions 1.7 and 2".
+
 ### `/Bin/`
 
-It will contain the scripts developed from August to December 2019.
+It will contain the scripts developed from August to December 2019. At this moment I only have one script.
+
+* `1.Transformation_to_vcf.sh`.- transformation of ped and map files to vcf.
 
 ### `/Meta/`
 
@@ -53,13 +59,7 @@ Figures content:
 * `Variant_type.png`.- in this graph we can see the type of variant identified by SIFT 4. Which includes:stop-gain, synonymous, nonsynonymous and nonconding.
 
 
-##### Notes
-
-######  SIFT
-
-SIFT 4G algorithm is a GPU-optimized version of SIFT (Ng et al. 2003) that allows us to obtain SIFT predictions quickly and to construct prediction databases for a large number of organisms (Vasser et al. 2015).
-
-###### PLINK
+##### Note for plink
 
 It is important to mention that the command used in plink does not run in the versions 1.7 and 2.
 

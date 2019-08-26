@@ -8,9 +8,8 @@ The scripts in `/bin/` should be run in the order they are numbered.
 
 Scripts content:
 
-* `1.Transformation_to_vcf.sh`.- transformation of ped and map files to vcf.
-* `2.SIF_Prediction.sh`.- to run the SIFT 4G annotator.
-* `3.Plot_class.R`.- plots SIFT Predictions results.
+* `1.SIF_Prediction.sh`.- to run the SIFT 4G annotator.
+* `2.Plot_class.R`.- plots SIFT Predictions results.
 
 ### `/Figures/`
 
