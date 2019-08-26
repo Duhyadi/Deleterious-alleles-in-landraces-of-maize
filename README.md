@@ -5,11 +5,11 @@ This repository contains data for the identification of deleterious alleles in l
 ## What is a landarace?
 
 
-#`/Arteaga_et_al_2016/`
+#  `/Arteaga_et_al_2016/`
 
 Genetic data were obtained from : https://datadryad.org/resource/doi:10.5061/dryad.n3jk5 . The contents of the directory are described below.
 
-###`/Data/`
+### `/Data/`
 
 The files contained in this folder are :
 
@@ -17,11 +17,11 @@ The files contained in this folder are :
 * `Nuevos_final.ped` .- This is the ped file obtained from dryad.
 * `Nuevos_final26mar.vcf` .- This is the file resulting from the combination of the previous files using plink v1.90b6.9
 
-###`/Bin/`
+### `/Bin/`
 
 It will contain the scripts developed from August to December 2019.
 
-###`/Meta/`
+### `/Meta/`
 
 CSV file. Contains the origin coordinates of each landrace. The file was also obtained from dryad.
 
@@ -38,7 +38,7 @@ This directory also has other directories
 
 [Here the link](https://sift.bii.a-star.edu.sg/)
 
-#####`/Bin/`
+##### `/Bin/`
 Scripts content:
 
 * `1.Transformation_to_vcf.sh`.- transformation of ped and map files to vcf.
@@ -63,9 +63,9 @@ SIFT 4G algorithm is a GPU-optimized version of SIFT (Ng et al. 2003) that allow
 
 It is important to mention that the command used in plink does not run in the versions 1.7 and 2.
 
-#`/Rojas_in_preparation_2019/`
+# `/Rojas_in_preparation_2019/`
 
-###`/Data/`
+### `/Data/`
 Obtaining data in process
 
 ### `/Bin/`
