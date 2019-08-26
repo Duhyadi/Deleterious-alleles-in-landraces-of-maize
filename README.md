@@ -6,6 +6,9 @@ This repository contains data for the identification of deleterious alleles in l
 
 One can think of selection occurring in two stages: domestication and crop improvement. Domestication resulted in the original landrace varieties, which were adapted to a wide range of environmental conditions. These landraces provided the genetic material for modern plant breeders to select improved varieties and inbred lines by enhancing traits controlling agricultural productivity and performance, such as yield and resistance to biotic and abiotic stresses [Yamasaki *et al* 2015](http://www.plantcell.org/content/17/11/2859)
 
+### Here an image. A picture is better than a thousand words
+!["](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/ProyectoUnidad5_DOG/Figures/SIFT_Prediction.png)
+
 #  `/Arteaga_et_al_2016/`
 
 Genetic data were obtained [from] (https://datadryad.org/resource/doi:10.5061/dryad.n3jk5). The contents of the directory are described below.
