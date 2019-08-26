@@ -19,7 +19,7 @@ The files contained in this folder are :
 
 ##### Note for plink
 
-It is important to mention that the command used in plink "does not run in the versions 1.7 and 2".
+It is important to mention that the command used in plink <span style="color:blue"> does not run in the versions 1.7 and 2</span>
 
 ### `/Bin/`
 
