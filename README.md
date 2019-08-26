@@ -6,8 +6,10 @@ This repository contains data for the identification of deleterious alleles in l
 
 One can think of selection occurring in two stages: domestication and crop improvement. Domestication resulted in the original landrace varieties, which were adapted to a wide range of environmental conditions. These landraces provided the genetic material for modern plant breeders to select improved varieties and inbred lines by enhancing traits controlling agricultural productivity and performance, such as yield and resistance to biotic and abiotic stresses [Yamasaki *et al* 2015](http://www.plantcell.org/content/17/11/2859)
 
-                 ### Here an image. A picture is better than a thousand words
+### Here an image. A picture is better than a thousand words
 !["What_landrace"](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/What_landrace.jpg)
+
+
 
 #  `/Arteaga_et_al_2016/`
 
@@ -31,7 +33,7 @@ The command used in plink prolog does not run in the versions 1.7 and 2. **Note*
 
 It will contain the scripts developed from August to December 2019. At this moment I only have one script.
 
-* `1.Transformation_to_vcf.sh`.- transformation of ped and map files to vcf.
+* `Transformation_to_vcf.sh`.- transformation of ped and map files to vcf.
 
 ### `/Meta/`
 
@@ -53,9 +55,8 @@ This directory also has other directories
 ##### `/Bin/`
 Scripts content:
 
-* `1.Transformation_to_vcf.sh`.- transformation of ped and map files to vcf.
-* `2.SIF_Prediction.sh`.- to run the SIFT 4G annotator.
-* `3.Plot_class.R`.- plots SIFT Predictions results.
+* `SIF_Prediction.sh`.- to run the SIFT 4G annotator.
+* `Plot_class.R`.- plots SIFT Predictions results.
 
 ##### `/Figures/`
 
