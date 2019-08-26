@@ -1,4 +1,4 @@
-# README of "Identification of deleterious alleles in landraces of maize"
+# "Identification of deleterious alleles in landraces of maize"
 
 This repository contains data for the identification of deleterious alleles in landraces of maize from Mexico. Different data are analyzed, product of different sequencing technique. Reason why the repository is divided into two directories Arteaga_et_al_2016 and Rojas, 2019 (in preparation).The content of each directory is described below.
 
@@ -23,7 +23,7 @@ It will contain the scripts developed from August to December 2019.
 
 ###`/Meta/`
 
-CSV file. Contains the origin coordinates of each landrace. The file was also obtained from dryad. 
+CSV file. Contains the origin coordinates of each landrace. The file was also obtained from dryad.
 
 
 ### `/Figures/`
@@ -34,7 +34,7 @@ It will contain the description of the figures obtained.
 
 This directory also has other directories
 
-#### What is a SIFT? 
+#### What is a SIFT?
 
 [Here the link](https://sift.bii.a-star.edu.sg/)
 
@@ -80,12 +80,3 @@ it will contain a csv file with the source coordinates and the description of th
 #### `/Figures/`
 
 It will contain the description of the figures obtained.
-
-
-
-
-
-
-
-
-
