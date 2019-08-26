@@ -19,12 +19,8 @@ The files contained in this folder are :
 
  ```prolog
  Important
-```<span style="color:red">some **This is Red Bold.** text</span>
-
-<span style="color:red">some **Important.** text</span>
-
-
-The command used in plink prolog does not run in the versions 1.7 and 2. **Note** I never got the color red for the important word. First use the following [link]() and then this. Does anyone know how to do it? They help me?
+```
+The command used in plink prolog does not run in the versions 1.7 and 2. **Note** I never got the color red for the important word. First use the following [link](https://stackoverflow.com/questions/35465557/how-to-apply-color-in-markdown) Does anyone know how to do it? Help me?
 
 ### `/Bin/`
 
