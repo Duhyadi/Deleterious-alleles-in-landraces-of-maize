@@ -20,9 +20,9 @@ The contents of the directory are described below.
 
 The files contained in this folder are :
 
-* `Nuevos_final.map` .- This is the map file obtained from dryad.
-* `Nuevos_final.ped` .- This is the ped file obtained from dryad.
-* `Nuevos_final26mar.vcf` .- This is the file resulting from the combination of the previous files using plink v1.90b6.9
+* `New_final.map` .- This is the map file obtained from dryad.
+* `New_final.ped` .- This is the ped file obtained from dryad.
+* `New_final_26_march.vcf` .- This is the file resulting from the combination of the previous files using plink v1.90b6.9
 
  ```prolog
  Important
