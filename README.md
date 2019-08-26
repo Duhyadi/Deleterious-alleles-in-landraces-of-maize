@@ -2,11 +2,11 @@
 
 This repository contains data for the identification of deleterious alleles in landraces of maize from Mexico. Different data are analyzed, product of different sequencing technique. Reason why the repository is divided into two directories Arteaga_et_al_2016 and Rojas, 2019 (in preparation).The content of each directory is described below.
 
-## What is a landarace? A better answer
+## What is a landarace? A better answer. I think...
 
 One can think of selection occurring in two stages: domestication and crop improvement. Domestication resulted in the original landrace varieties, which were adapted to a wide range of environmental conditions. These landraces provided the genetic material for modern plant breeders to select improved varieties and inbred lines by enhancing traits controlling agricultural productivity and performance, such as yield and resistance to biotic and abiotic stresses [Yamasaki *et al* 2015](http://www.plantcell.org/content/17/11/2859)
 
-### Here an image. A picture is better than a thousand words
+                 ### Here an image. A picture is better than a thousand words
 !["What_landrace"](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/What_landrace.jpg)
 
 #  `/Arteaga_et_al_2016/`
@@ -64,10 +64,6 @@ Figures content:
 * `SIFT_Prediction.png`.- in this graph we can see the prediction made by SIFT 4. Which includes: tolerated, deleterious, and deleterious with low confidence.
 * `Variant_type.png`.- in this graph we can see the type of variant identified by SIFT 4. Which includes:stop-gain, synonymous, nonsynonymous and nonconding.
 
-
-##### Note for plink
-
-It is important to mention that the command used in plink does not run in the versions 1.7 and 2.
 
 # `/Rojas_in_preparation_2019/`
 
