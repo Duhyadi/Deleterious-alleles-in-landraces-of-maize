@@ -17,9 +17,8 @@ The files contained in this folder are :
 * `Nuevos_final.ped` .- This is the ped file obtained from dryad.
 * `Nuevos_final26mar.vcf` .- This is the file resulting from the combination of the previous files using plink v1.90b6.9
 
-```prolog
 Important
-```
+{: style="color:red;" }
 
 It is important to mention that the command used in plink prolog does not run in the versions 1.7 and 2
 
