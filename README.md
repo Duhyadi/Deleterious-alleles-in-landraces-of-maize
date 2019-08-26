@@ -11,7 +11,8 @@ One can think of selection occurring in two stages: domestication and crop impro
 
 #  `/Arteaga_et_al_2016/`
 
-Genetic data were obtained [from](https://datadryad.org/resource/doi:10.5061/dryad.n3jk5). The contents of the directory are described below.
+Genetic data were obtained [from](https://datadryad.org/resource/doi:10.5061/dryad.n3jk5)
+The contents of the directory are described below.
 
 ### `/Data/`
 
