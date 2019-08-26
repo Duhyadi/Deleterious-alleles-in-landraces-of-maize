@@ -75,11 +75,14 @@ Obtaining data in process
 
 It will contain the scripts developed from August to December 2019.
 
-#### `/Meta/`
+### `/Meta/`
 
-it will contain a csv file with the source coordinates and the description of the data
+It will contain a csv file with the source coordinates and the description of the data
 
-
-#### `/Figures/`
+### `/Figures/`
 
 It will contain the description of the figures obtained.
+
+#### Finally
+
+[My account in OSF](https://osf.io/tza5v/files/)
