@@ -17,10 +17,14 @@ The files contained in this folder are :
 * `Nuevos_final.ped` .- This is the ped file obtained from dryad.
 * `Nuevos_final26mar.vcf` .- This is the file resulting from the combination of the previous files using plink v1.90b6.9
 
-Important
-{: style="color:red;" }
+ ```prolog
+ Important
+```<span style="color:red">some **This is Red Bold.** text</span>
 
-It is important to mention that the command used in plink prolog does not run in the versions 1.7 and 2
+<span style="color:red">some **Important.** text</span>
+
+
+The command used in plink prolog does not run in the versions 1.7 and 2. **Note** I never got the color red for the important word. First use the following [link]() and then this. Does anyone know how to do it? They help me?
 
 ### `/Bin/`
 
