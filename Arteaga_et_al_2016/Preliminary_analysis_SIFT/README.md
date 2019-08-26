@@ -1,6 +1,6 @@
 # "Identification of deleterious alleles in landraces of maize using SIFT prediction in Arteaga et al 2019"
 
-Contains scripts and figures  for la identification of deleterious alleles in landraces of maize from  [Arteaga *et al* 2019] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4778591/)
+Contains scripts and figures  for la identification of deleterious alleles in landraces of maize from [Arteaga *et al* 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4778591/)
 
 ### `/Bin/`
 
