@@ -2,12 +2,13 @@
 
 This repository contains data for the identification of deleterious alleles in landraces of maize from Mexico. Different data are analyzed, product of different sequencing technique. Reason why the repository is divided into two directories Arteaga_et_al_2016 and Rojas, 2019 (in preparation).The content of each directory is described below.
 
-## What is a landarace?
+## What is a landarace? A better answer
 
+One can think of selection occurring in two stages: domestication and crop improvement. Domestication resulted in the original landrace varieties, which were adapted to a wide range of environmental conditions. These landraces provided the genetic material for modern plant breeders to select improved varieties and inbred lines by enhancing traits controlling agricultural productivity and performance, such as yield and resistance to biotic and abiotic stresses [Yamasaki *et al* 2015](http://www.plantcell.org/content/17/11/2859)
 
 #  `/Arteaga_et_al_2016/`
 
-Genetic data were obtained from : https://datadryad.org/resource/doi:10.5061/dryad.n3jk5 . The contents of the directory are described below.
+Genetic data were obtained [from] (https://datadryad.org/resource/doi:10.5061/dryad.n3jk5). The contents of the directory are described below.
 
 ### `/Data/`
 
