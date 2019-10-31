@@ -1,6 +1,6 @@
 # "Identification of deleterious alleles in landraces of maize"
 
-This repository contains data for the identification of deleterious alleles in landraces of maize from Mexico. Different data are analyzed, product of different sequencing technique. Reason why the repository is divided into two directories Arteaga_SNPArray_2016 and Rojas_GBS_2019 (in preparation).The content of each directory is described below.
+This repository contains data for the identification of deleterious alleles in landraces of maize from Mexico. Different data are analyzed, product of different sequencing technique. Reason why the repository is divided into two directories Arteaga_SNPArray_2016 and Rojas_GBS_2019 .The content of each directory is described below.
 
 ## What is a landarace? A better answer. I think...
 
@@ -86,3 +86,19 @@ It will contain the description of the figures obtained.
 #### Finally
 
 [My account in OSF](https://osf.io/tza5v/files/)
+
+# Further
+
+You have three additional folders
+
+## `/Images/`
+
+In this folder there are only images
+
+## `/Presentations/`
+
+It contains two files: presentation (brief description of the project) and seminaryI (differences between SNPArray and GBS).
+
+## `/Unresolved_issues/`
+
+Contains unclosed issue files.
