@@ -1,6 +1,6 @@
 # "Identification of deleterious alleles in landraces of maize"
 
-This repository contains data for the identification of deleterious alleles in landraces of maize from Mexico. Different data are analyzed, product of different sequencing technique. Reason why the repository is divided into two directories Arteaga_et_al_2016 and Rojas, 2019 (in preparation).The content of each directory is described below.
+This repository contains data for the identification of deleterious alleles in landraces of maize from Mexico. Different data are analyzed, product of different sequencing technique. Reason why the repository is divided into two directories Arteaga_SNPArray_2016 and Rojas_GBS_2019 (in preparation).The content of each directory is described below.
 
 ## What is a landarace? A better answer. I think...
 
@@ -11,7 +11,7 @@ One can think of selection occurring in two stages: domestication and crop impro
 
 
 
-#  `/Arteaga_et_al_2016/`
+#  `/Arteaga_SNPArray_2016/`
 
 Genetic data were obtained [from](https://datadryad.org/resource/doi:10.5061/dryad.4t20n)
 The contents of the directory are described below.
@@ -66,7 +66,7 @@ Figures content:
 * `Variant_type.png`.- in this graph we can see the type of variant identified by SIFT 4. Which includes:stop-gain, synonymous, nonsynonymous and nonconding.
 
 
-# `/Rojas_in_preparation_2019/`
+# `/Rojas_GBS_2019/`
 
 ### `/Data/`
 Obtaining data in process

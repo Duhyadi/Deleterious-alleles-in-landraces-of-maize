@@ -1,12 +1,12 @@
-#####
+
 
 #### Transformation to .vcf
 
 cd ../data
 
 
-## Creación de carpetas
+## Folder creation
 
 # recode plink to needed formats
 
-plink --ped nuevos_final.ped --map nuevos_final.map --recode vcf*
+plink --ped new_final.ped --map new_final.map --recode vcf*
