@@ -1,12 +1,12 @@
 # "Identification of deleterious alleles in landraces of maize"
 
-This repository contains data for the identification of deleterious alleles in landraces of maize from Mexico. Different data are analyzed, product of different sequencing technique. Reason why the repository is divided into two directories Arteaga_SNPArray_2016 and Rojas_GBS_2019 .The content of each directory is described below.
+This repository contains data for the identification of deleterious alleles in landraces of maize from Mexico. Different data are analyzed that are the product of different sequencing techniques. For this reason, the repository is divided into two directories Arteaga_SNPArray_2016 and Rojas_GBS_2019 .The content of each directory is described below.
 
-## What is a landarace? A better answer. I think...
+## What is a landrace? A better answer, I think is...
 
-One can think of selection occurring in two stages: domestication and crop improvement. Domestication resulted in the original landrace varieties, which were adapted to a wide range of environmental conditions. These landraces provided the genetic material for modern plant breeders to select improved varieties and inbred lines by enhancing traits controlling agricultural productivity and performance, such as yield and resistance to biotic and abiotic stresses [Yamasaki *et al* 2015](http://www.plantcell.org/content/17/11/2859)
+One can think of selection occurring in two stages: domestication and crop improvement. Domestication resulted from the original landrace varieties, which were adapted to a wide range of environmental conditions. These landraces provided the genetic material for modern plant breeders to select improved varieties and inbred lines by enhancing traits controlling agricultural productivity and performance, such as yield and resistance to biotic and abiotic stresses ([Yamasaki *et al* 2015](http://www.plantcell.org/content/17/11/2859)).
 
-### Here an image. A picture is better than a thousand words
+### Here is an illustration. A picture is better than a thousand words
 
 !["What_landrace"](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Images/What_landrace.jpg)
 
@@ -14,7 +14,7 @@ One can think of selection occurring in two stages: domestication and crop impro
 
 #  `/Arteaga_SNPArray_2016/`
 
-Genetic data were obtained [from](https://datadryad.org/resource/doi:10.5061/dryad.4t20n)
+Genetic data were obtained from [dryad](https://datadryad.org/resource/doi:10.5061/dryad.4t20n)
 The contents of the directory are described below.
 
 ### `/Data/`
@@ -32,18 +32,18 @@ The command used in plink does not run in the versions 1.7 and 2. **Note** I nev
 
 ### `/Bin/`
 
-It will contain the scripts developed from August to December 2019. At this moment I only have one script.
+This folder will contain the scripts developed from August to December 2019. At this moment I only have one script.
 
 * `Transformation_to_vcf.sh`.- transformation of ped and map files to vcf.
 
 ### `/Meta/`
 
-CSV file. Contains the origin coordinates of each landrace. The file was also obtained from dryad.
+CSV file that contains the original coordinates of each landrace. The file was also obtained from dryad.
 
 
 ### `/Figures/`
 
-It will contain the description of the figures obtained.
+This folder will contain the description of the figures obtained from the different analyses.
 
 ### `/Preliminary Analysis SIFT /`
 
@@ -70,19 +70,19 @@ Figures content:
 # `/Rojas_GBS_2019/`
 
 ### `/Data/`
-Obtaining data in process
+Obtaining data is currently in process
 
 ### `/Bin/`
 
-It will contain the scripts developed from August to December 2019.
+This folder will contain the scripts developed from August to December 2019.
 
 ### `/Meta/`
 
-It will contain a csv file with the source coordinates and the description of the data
+This folder will contain a csv file with the source coordinates and the description of the data
 
 ### `/Figures/`
 
-It will contain the description of the figures obtained.
+This folder will contain the description of the figures obtained.
 
 #### Finally
 
@@ -94,12 +94,12 @@ You have three additional folders
 
 ## `/Images/`
 
-In this folder there are only images
+In this folder you can find the images thar are used in my different presentations
 
 ## `/Presentations/`
 
-It contains two files: presentation (brief description of the project) and seminaryI (differences between SNPArray and GBS).
+This folder contains two files: presentation (brief description of the project) and seminary (differences between SNPArray and GBS) that I did in class.
 
 ## `/Unresolved_issues/`
 
-Contains unclosed issue files.
+This folder contains files used in my unclosed issues.
