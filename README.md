@@ -98,7 +98,7 @@ In this folder you can find the images thar are used in my different presentatio
 
 ## `/Presentations/`
 
-This folder contains two files: presentation (brief description of the project) and seminary (differences between SNPArray and GBS) that I did in class.
+This folder contains two files: presentation [(brief description of the project)](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Presentations/Presentation.pdf) and seminary [(differences between SNPArray and GBS)] (https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Presentations/Seminary_I.pdf)that I did in class.
 
 ## `/Unresolved_issues/`
 
