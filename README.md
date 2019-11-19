@@ -2,7 +2,9 @@
 
 This repository contains data for the identification of deleterious alleles in landraces of maize from Mexico. Different data are analyzed that are the product of different sequencing techniques. For this reason, the repository is divided into two directories Arteaga_SNPArray_2016 and Rojas_GBS_2019 .The content of each directory is described below.
 
-## What is a landrace? A better answer, I think is...
+## First 
+
+## What is a landrace? A good answer, I think..
 
 One can think of selection occurring in two stages: domestication and crop improvement. Domestication resulted from the original landrace varieties, which were adapted to a wide range of environmental conditions. These landraces provided the genetic material for modern plant breeders to select improved varieties and inbred lines by enhancing traits controlling agricultural productivity and performance, such as yield and resistance to biotic and abiotic stresses ([Yamasaki *et al* 2015](http://www.plantcell.org/content/17/11/2859)).
 
