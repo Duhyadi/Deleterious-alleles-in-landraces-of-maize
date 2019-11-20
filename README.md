@@ -1,20 +1,31 @@
 # "Identification of deleterious alleles in landraces of maize"
 
-This repository contains data for the identification of deleterious alleles in landraces of maize from Mexico. Different data are analyzed, product of different sequencing technique. Reason why the repository is divided into two directories Arteaga_SNPArray_2016 and Rojas_GBS_2019 .The content of each directory is described below.
+One of the strategies to recognize inbreeding in an organism is the identification of deleterious alleles, finding a greater proportion of these in [domesticated species](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5786255/ ). I am currently working with a breed of corn known as Olotillo, recently planted in a [smaller proportion ](https://www.sciencedirect.com/science/article/abs/pii/S0305750X01000134).This allows us to assume inbred status for said race. At the moment I do not have sequences (in process) and since a primary part of my research is the identification of deleterious alleles I decided to identify them in native varieties of corn of Mexico for data from different sequencing techniques: [SNP array](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2715261/) ([Arteaga *et al* 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4778591/)) and genotyping-by-sequencing, [GBS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5745977/) ([Rojas *et al* 2019](https://www.pnas.org/content/116/42/21302)). It is important to mention that research on this topic has not been developed in native varieties of Mexico, rather they have been developed in improved lines ([Mezmouk & Ross-Ibarra, 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3887532/); [Yang *et al* 2017](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019)). 
 
-## What is a landarace? A better answer. I think...
+   This repository is divided into two directories :file_folder: **`/Arteaga_SNPArray_2016`** and :file_folder: **`/Rojas_GBS_2019`** .The content of each directory is described below.
+   
+   Another reason why **SNP array** and **GBS** data was chosen is to be able to determine the scope of identification of deleting alleles using different sequencing techniques.
 
-One can think of selection occurring in two stages: domestication and crop improvement. Domestication resulted in the original landrace varieties, which were adapted to a wide range of environmental conditions. These landraces provided the genetic material for modern plant breeders to select improved varieties and inbred lines by enhancing traits controlling agricultural productivity and performance, such as yield and resistance to biotic and abiotic stresses [Yamasaki *et al* 2015](http://www.plantcell.org/content/17/11/2859)
+## First 
 
-### Here an image. A picture is better than a thousand words
+## What is a landrace? A good answer, I think..
+
+One can think of selection occurring in two stages: domestication and crop improvement. Domestication resulted from the original landrace varieties, which were adapted to a wide range of environmental conditions. These landraces provided the genetic material for modern plant breeders to select improved varieties and inbred lines by enhancing traits controlling agricultural productivity and performance, such as yield and resistance to biotic and abiotic stresses ([Yamasaki *et al* 2015](http://www.plantcell.org/content/17/11/2859)).
+
+### Here is an illustration. A picture is better than a thousand words
 
 !["What_landrace"](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Images/What_landrace.jpg)
 
+### How to identify deleterious alleles?
+
+#### What is a SIFT?
+
+[Here the link](https://sift.bii.a-star.edu.sg/)
 
 
-#  `/Arteaga_SNPArray_2016/`
+## `/Arteaga_SNPArray_2016/`
 
-Genetic data were obtained [from](https://datadryad.org/resource/doi:10.5061/dryad.4t20n)
+Genetic data were obtained from [dryad](https://datadryad.org/resource/doi:10.5061/dryad.4t20n). 
 The contents of the directory are described below.
 
 ### `/Data/`
@@ -23,43 +34,30 @@ The files contained in this folder are :
 
 * `New_final.map` .- This is the map file obtained from dryad.
 * `New_final.ped` .- This is the ped file obtained from dryad.
-* `New_final_26_march.vcf` .- This is the file resulting from the combination of the previous files using plink v1.90b6.9
+* `New_final_26_march.vcf` .- This is the file resulting from the combination of the previous files using plink.
 
- ```prolog
+```prolog
  Important
-  ```
-The command used in plink does not run in the versions 1.7 and 2. **Note** I never got the color red for the important word. First use the following [link](https://stackoverflow.com/questions/35465557/how-to-apply-color-in-markdown) Does anyone know how to do it? Help me?
+  ``` 
+  To [convert a .map and .ped file into plink](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/issues/8) it is necessary to use plink **v1.90b6.9.** 
 
 ### `/Bin/`
 
-It will contain the scripts developed from August to December 2019. At this moment I only have one script.
+This folder will contain scripts. 
 
 * `Transformation_to_vcf.sh`.- transformation of ped and map files to vcf.
+* `SIF_Prediction.sh`.- to run the SIFT 4G annotator.
+* `Plot_class.R`.- plots SIFT Predictions results.
+
 
 ### `/Meta/`
 
-CSV file. Contains the origin coordinates of each landrace. The file was also obtained from dryad.
+CSV file that contains the original coordinates of each landrace. The file was also obtained from dryad.
 
 
 ### `/Figures/`
 
-It will contain the description of the figures obtained.
-
-### `/Preliminary Analysis SIFT /`
-
-This directory also has other directories
-
-#### What is a SIFT?
-
-[Here the link](https://sift.bii.a-star.edu.sg/)
-
-##### `/Bin/`
-Scripts content:
-
-* `SIF_Prediction.sh`.- to run the SIFT 4G annotator.
-* `Plot_class.R`.- plots SIFT Predictions results.
-
-##### `/Figures/`
+This folder will contain the description of the figures obtained from the different analyses.
 
 Figures content:
 
@@ -67,22 +65,22 @@ Figures content:
 * `Variant_type.png`.- in this graph we can see the type of variant identified by SIFT 4. Which includes:stop-gain, synonymous, nonsynonymous and nonconding.
 
 
-# `/Rojas_GBS_2019/`
+## `/Rojas_GBS_2019/`
 
 ### `/Data/`
-Obtaining data in process
+Obtaining data is currently in process
 
 ### `/Bin/`
 
-It will contain the scripts developed from August to December 2019.
+This folder will contain the scripts developed from August to December 2019.
 
 ### `/Meta/`
 
-It will contain a csv file with the source coordinates and the description of the data
+This folder will contain a csv file with the source coordinates and the description of the data
 
 ### `/Figures/`
 
-It will contain the description of the figures obtained.
+This folder will contain the description of the figures obtained.
 
 #### Finally
 
@@ -94,12 +92,12 @@ You have three additional folders
 
 ## `/Images/`
 
-In this folder there are only images
+In this folder you can find the images thar are used in my different presentations
 
 ## `/Presentations/`
 
-It contains two files: presentation (brief description of the project) and seminaryI (differences between SNPArray and GBS).
+This folder contains two files: presentation [(brief description of the project)](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Presentations/Presentation.pdf) and seminary [(differences between SNPArray and GBS)](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Presentations/Seminary_I.pdf)that I did in class.
 
 ## `/Unresolved_issues/`
 
-Contains unclosed issue files.
+This folder contains files used in my unclosed issues.
