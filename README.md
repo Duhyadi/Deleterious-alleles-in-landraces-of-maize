@@ -29,7 +29,7 @@ The files contained in this folder are :
 
 * `New_final.map` .- This is the map file obtained from dryad.
 * `New_final.ped` .- This is the ped file obtained from dryad.
-* `New_final_26_march.vcf` .- This is the file resulting from the combination of the previous files using plink v1.90b6.9
+* `New_final_26_march.vcf` .- This is the file resulting from the combination of the previous files using plink.
 
 ```prolog
  Important
