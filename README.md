@@ -16,6 +16,11 @@ One can think of selection occurring in two stages: domestication and crop impro
 
 !["What_landrace"](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Images/What_landrace.jpg)
 
+### How to identify deleterious alleles?
+
+#### What is a SIFT?
+
+[Here the link](https://sift.bii.a-star.edu.sg/)
 
 
 #  `/Arteaga_SNPArray_2016/`
@@ -54,10 +59,6 @@ This folder will contain the description of the figures obtained from the differ
 ### `/Preliminary Analysis SIFT /`
 
 This directory also has other directories
-
-#### What is a SIFT?
-
-[Here the link](https://sift.bii.a-star.edu.sg/)
 
 ##### `/Bin/`
 Scripts content:
