@@ -84,7 +84,6 @@ This folder will contain the description of the figures obtained.
 
 #### Finally
 
-
 [My account in OSF](https://osf.io/tza5v/files/)
 
 # Further
