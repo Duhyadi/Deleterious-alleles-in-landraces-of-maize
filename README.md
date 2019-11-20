@@ -33,8 +33,8 @@ The files contained in this folder are :
 
 ```prolog
  Important
-  ```
-  The command used in plink does not run in the versions 1.7 and 2.
+  ``` 
+  To [convert a .map and .ped file into plink](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/issues/8) it is necessary to use plink **v1.90b6.9.** 
 
 ### `/Bin/`
 
