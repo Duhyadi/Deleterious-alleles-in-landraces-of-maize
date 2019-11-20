@@ -23,7 +23,7 @@ One can think of selection occurring in two stages: domestication and crop impro
 [Here the link](https://sift.bii.a-star.edu.sg/)
 
 
-#  `/Arteaga_SNPArray_2016/`
+# file_folder: `/Arteaga_SNPArray_2016/`
 
 Genetic data were obtained from [dryad](https://datadryad.org/resource/doi:10.5061/dryad.4t20n). 
 The contents of the directory are described below.
@@ -43,9 +43,12 @@ The files contained in this folder are :
 
 ### `/Bin/`
 
-This folder will contain the scripts developed from August to December 2019. At this moment I only have one script.
+This folder will contain scripts. 
 
 * `Transformation_to_vcf.sh`.- transformation of ped and map files to vcf.
+* `SIF_Prediction.sh`.- to run the SIFT 4G annotator.
+* `Plot_class.R`.- plots SIFT Predictions results.
+
 
 ### `/Meta/`
 
@@ -55,18 +58,6 @@ CSV file that contains the original coordinates of each landrace. The file was a
 ### `/Figures/`
 
 This folder will contain the description of the figures obtained from the different analyses.
-
-### `/Preliminary Analysis SIFT /`
-
-This directory also has other directories
-
-##### `/Bin/`
-Scripts content:
-
-* `SIF_Prediction.sh`.- to run the SIFT 4G annotator.
-* `Plot_class.R`.- plots SIFT Predictions results.
-
-##### `/Figures/`
 
 Figures content:
 
