@@ -23,7 +23,7 @@ One can think of selection occurring in two stages: domestication and crop impro
 [Here the link](https://sift.bii.a-star.edu.sg/)
 
 
-# file_folder: `/Arteaga_SNPArray_2016/`
+## `/Arteaga_SNPArray_2016/`
 
 Genetic data were obtained from [dryad](https://datadryad.org/resource/doi:10.5061/dryad.4t20n). 
 The contents of the directory are described below.
@@ -65,7 +65,7 @@ Figures content:
 * `Variant_type.png`.- in this graph we can see the type of variant identified by SIFT 4. Which includes:stop-gain, synonymous, nonsynonymous and nonconding.
 
 
-# `/Rojas_GBS_2019/`
+## `/Rojas_GBS_2019/`
 
 ### `/Data/`
 Obtaining data is currently in process
