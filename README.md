@@ -96,8 +96,8 @@ In this folder you can find the images thar are used in my different presentatio
 
 ## `/Presentations/`
 
-This folder contains two files: presentation [(brief description of the project)](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Presentations/Presentation.pdf) and seminary [(differences between SNPArray and GBS)](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Presentations/Seminary_I.pdf)that I did in class.
+This folder contains two files: presentation [(brief description of the project)](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Presentations/Presentation.pdf) and seminary [(differences between SNPArray and GBS)](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Presentations/Seminary_I.pdf) that I did in class.
 
 ## `/Unresolved_issues/`
 
-This folder contains files used in my unclosed issues.
+This folder contains a [python script](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Unresolved_Issues/Issues1_Reply_pysam.ipynb) used to convert a vcf file into a fasta in pysam.Here the [unresolved issue](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/issues/1).
