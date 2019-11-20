@@ -67,6 +67,9 @@ Figures content:
 
 ## `/Rojas_GBS_2019/`
 
+Genetic data were obtained from [OSF](https://osf.io/pqvt4/). 
+The contents of the directory are described below.
+
 ### `/Data/`
 Obtaining data is currently in process
 
@@ -76,7 +79,7 @@ This folder will contain the scripts developed from August to December 2019.
 
 ### `/Meta/`
 
-This folder will contain a csv file with the source coordinates and the description of the data
+This folder will contain a csv file with the source coordinates and the description of the data.
 
 ### `/Figures/`
 
