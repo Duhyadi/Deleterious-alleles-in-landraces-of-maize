@@ -31,10 +31,9 @@ The files contained in this folder are :
 * `New_final.ped` .- This is the ped file obtained from dryad.
 * `New_final_26_march.vcf` .- This is the file resulting from the combination of the previous files using plink v1.90b6.9
 
- ```prolog
- Important
-  ```
-The command used in plink does not run in the versions 1.7 and 2. **Note** I never got the color red for the important word. First use the following [link](https://stackoverflow.com/questions/35465557/how-to-apply-color-in-markdown) Does anyone know how to do it? Help me?
+ - Important
+ 
+The command used in plink does not run in the versions 1.7 and 2.
 
 ### `/Bin/`
 
