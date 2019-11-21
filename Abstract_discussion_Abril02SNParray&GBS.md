@@ -8,9 +8,10 @@ historiography, gene drift, mating system
 and domestication processes.
 In the study, the proportion of deleterious alleles
 in native maize varieties was identified using the SIFT 4G software
-of Mexico, finding a very low proportion of 7%.
-The above evidences the role of the purifying selection t
-o eliminate deleterious alleles.
+of Mexico, in data from different sequencing techniques: SNP Array and GBS. 
+Although the data cannot be properly composed, since they are data 
+from different sequencing techniques. 
+In addition to not being the same data. Both results showed the role of purifying selection: elimination of deleterious alleles.
 
 ## Discussion
 In general, it can be said that deleterious mutations
