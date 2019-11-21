@@ -18,10 +18,9 @@ One can think of selection occurring in two stages: domestication and crop impro
 
 ### How to identify deleterious alleles?
 
-#### SIFT is an option 
+#### [SIFT is an option](https://sift.bii.a-star.edu.sg/). 
 
-[Here the link](https://sift.bii.a-star.edu.sg/)
-
+The following [presentation](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Presentations/SIFT_c.pdf) briefly explains the way in which SIFT works.
 
 ## `/Arteaga_SNPArray_2016/`
 
