@@ -40,6 +40,7 @@ This was recently documented in rice,
 both in the domesticated species and in the wild (Lui et al., 2017).
 
 !["CHROM and SIFT PREDICTION"](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/ProyectoUnidad5_DOG/Figures/SIFT_Prediction.png)
+**Fig1.** SIFT prediction for data from SNP Array (Arteaga et al., 2016).
 
 It is important to note that in spite
 of having found deleterious alleles,
