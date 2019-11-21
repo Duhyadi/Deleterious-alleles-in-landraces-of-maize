@@ -67,7 +67,7 @@ The same analyzes were performed on GBS data (Rojas et al., 2019). The results o
 !["CHROM and SIFT PREDICTION"](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Rojas_et_al_2019/Figures/SIFT_Prediction_GBS.png)
 **Fig3.** SIFT prediction for data from GBS (Rojas et al., 2016).
 
-!["CHROM and VARIANT TYPE"](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/ProyectoUnidad5_DOG/Figures/Variant_type.png)
+!["CHROM and VARIANT TYPE"](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Rojas_et_al_2019/Figures/Varaint_type_GBS.png)
 **Fig4.** Variant type for data from GBS (Rojas et al., 2019).
 
 # References:
