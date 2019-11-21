@@ -60,6 +60,7 @@ deleterious with low level of confidence and deleterious.
 Not necessarily the non-synonymous is deleterious.
 
 !["CHROM and VARIANT TYPE"](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/ProyectoUnidad5_DOG/Figures/Variant_type.png)
+**Fig2.** Variant type for data from SNP Array (Arteaga et al., 2016).
 
 # References:
 
