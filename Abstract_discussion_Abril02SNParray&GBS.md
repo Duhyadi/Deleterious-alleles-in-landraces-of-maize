@@ -26,7 +26,7 @@ for heterozygosity (He), showed that the landraces
 analyzed had a high genetic variation,
 despite this SIFT 4 G (Vaser et al., 2015)
 predicted the presence of deleterious alleles
- (see histogram on CHROM and SIFT PREDICTION),
+ (see Fig1.),
 also known as non-synonymous functional variants (Chen et al., 2018).
 Expected result because it is known that domesticated
 species maintain a higher proportion of deleterious
@@ -40,7 +40,7 @@ This was recently documented in rice,
 both in the domesticated species and in the wild (Lui et al., 2017).
 
 !["CHROM and SIFT PREDICTION"](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/ProyectoUnidad5_DOG/Figures/SIFT_Prediction.png)
-**Fig1.** SIFT prediction for data from SNP Array (Arteaga et al., 2016).
+**Fig1.** SIFT prediction for data from SNP Array (Arteaga et al., 2016).  
 
 It is important to note that in spite
 of having found deleterious alleles,
@@ -53,7 +53,7 @@ genomes of harmful mutations (Noel et al., 2019).
 
 Regarding the percentage of
 non-synonymous variants
-(see histogram on CHROM and VARIANT TYPE)
+(see Fig2.)
 a greater proportion can be observed,
 in this class the variants are included: tolerated,
 deleterious with low level of confidence and deleterious.
@@ -61,6 +61,14 @@ Not necessarily the non-synonymous is deleterious.
 
 !["CHROM and VARIANT TYPE"](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/ProyectoUnidad5_DOG/Figures/Variant_type.png)
 **Fig2.** Variant type for data from SNP Array (Arteaga et al., 2016).
+
+The same analyzes were performed on GBS data (Rojas et al., 2019). The results obtained are shown in Figure 3 and 4. 
+
+!["CHROM and SIFT PREDICTION"](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Rojas_et_al_2019/Figures/SIFT_Prediction_GBS.png)
+**Fig3.** SIFT prediction for data from GBS (Rojas et al., 2016).
+
+!["CHROM and VARIANT TYPE"](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/ProyectoUnidad5_DOG/Figures/Variant_type.png)
+**Fig4.** Variant type for data from GBS (Rojas et al., 2019).
 
 # References:
 
