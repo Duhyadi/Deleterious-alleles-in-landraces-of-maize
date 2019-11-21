@@ -62,13 +62,17 @@ Not necessarily the non-synonymous is deleterious.
 !["CHROM and VARIANT TYPE"](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/ProyectoUnidad5_DOG/Figures/Variant_type.png)
 **Fig2.** Variant type for data from SNP Array (Arteaga et al., 2016).
 
-The same analyzes were performed on GBS data (Rojas et al., 2019). The results obtained are shown in Figure 3 and 4. 
+The same analyzes were performed on GBS data (Rojas et al., 2019). The results obtained are shown in Figure 3 and 4. Although in figure 4 a smaller percentage of variants without synomines is observed. In Figure 3 it can be seen that the fraction of deleting alleles. is less likely associated with the role of the purifying selection. 
 
 !["CHROM and SIFT PREDICTION"](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Rojas_et_al_2019/Figures/SIFT_Prediction_GBS.png)
 **Fig3.** SIFT prediction for data from GBS (Rojas et al., 2016).
 
 !["CHROM and VARIANT TYPE"](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Rojas_et_al_2019/Figures/Varaint_type_GBS.png)
 **Fig4.** Variant type for data from GBS (Rojas et al., 2019).
+
+## Conclusion 
+
+According to the data presented, the following preliminary conclusion could be made: regardless of the scope of the sequencing technique used, the percentage of deleting alleles is low, probably associated with the purifying selection.
 
 # References:
 
