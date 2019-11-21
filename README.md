@@ -70,11 +70,13 @@ Genetic data were obtained from [OSF](https://osf.io/pqvt4/).
 The contents of the directory are described below.
 
 ### `/Data/`
-Obtaining data is currently in process
+
+The vcf file can be obtained in this [link](https://osf.io/pqvt4/).
 
 ### `/Bin/`
 
-This folder will contain the scripts developed from August to December 2019.
+* `SIF_Prediction.sh`.- to run the SIFT 4G annotator.
+* `Plot_class.R`.- plots SIFT Predictions results.
 
 ### `/Meta/`
 
@@ -94,11 +96,11 @@ You have three additional folders
 
 ## `/Images/`
 
-In this folder you can find the images thar are used in my different presentations
+In this folder you can find the images that were were presented in the readme.
 
 ## `/Presentations/`
 
-This folder contains two files: presentation [(brief description of the project)](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Presentations/Presentation.pdf) and seminary [(differences between SNPArray and GBS)](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Presentations/Seminary_I.pdf) that I did in class.
+This folder contains three files: presentation [(brief description of the project)](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Presentations/Presentation.pdf), seminary [(differences between SNPArray and GBS)](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Presentations/Seminary_I.pdf) as well as a brief description of [SIFT](https://github.com/Duhyadi/Deleterious-alleles-in-landraces-of-maize/blob/master/Presentations/SIFT_c.pdf). 
 
 ## `/Unresolved_issues/`
 
