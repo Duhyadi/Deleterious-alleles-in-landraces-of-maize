@@ -18,7 +18,7 @@ One can think of selection occurring in two stages: domestication and crop impro
 
 ### How to identify deleterious alleles?
 
-#### What is a SIFT?
+#### SIFT is an option 
 
 [Here the link](https://sift.bii.a-star.edu.sg/)
 
