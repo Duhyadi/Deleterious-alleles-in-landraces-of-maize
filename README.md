@@ -71,7 +71,7 @@ The contents of the directory are described below.
 
 ### `/Data/`
 
-The vcf file can be obtained in this [link](https://osf.io/pqvt4/).
+The vcf file can be obtained in this [link](https://osf.io/pqvt4/).The analyzes were made with the complete vcf (3.2 Gb). A small vcf file (Data_test_TOP.VCF) was added to test the scripts in bin.
 
 ### `/Bin/`
 
@@ -96,7 +96,7 @@ You have three additional folders
 
 ## `/Images/`
 
-In this folder you can find the images that were were presented in the readme.
+In this folder you can find the images that were presented in the readme.
 
 ## `/Presentations/`
 
